@@ -1063,7 +1063,7 @@ nav.flex div.overflow-y-auto .relative.mt-5 {
                 const cdiv_new = document.createElement("div");
                 cdiv_new.className = `flex-1 text-ellipsis overflow-hidden break-all relative`;
                 cdiv_new.innerHTML = `
-<div style="max-height: unset; max-width: 70%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; position: absolute; color: #e1e1e1; font-weight: bold;" class="navtitle">
+<div style="max-height: unset; max-width: 70%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; position: absolute; color: #0D0D0D; font-weight: bold;" class="navtitle">
     ${title}
 </div>
 <div style="right: 0; position: absolute; color: gray; font-size: 0.71rem;" class="navdate">
